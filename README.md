@@ -8,4 +8,4 @@ PassGenius - simple password generator! Python.
  •Сolorama 0.4.4
 # How to Use:
 
-Just install requirements, run python file and follow instructions. You need to enter length of password and choose symbols list to generate password.
+Just run setup.bat, python file and follow instructions. You need to enter length of password and choose symbols list to generate password.
