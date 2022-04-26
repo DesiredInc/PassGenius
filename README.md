@@ -3,8 +3,6 @@
 
 PassGenius - simple password generator! Python.
 # System requirements:
- •Stable connection
- 
  •Python 3.X.X
 
 # How to Use:
